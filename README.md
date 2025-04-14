@@ -1,1 +1,1 @@
-Hi, there is a puzzle game!
+打開.exe檔直接遊玩!
